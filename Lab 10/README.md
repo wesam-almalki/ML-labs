@@ -34,7 +34,3 @@ Features used:
 ## Results
 The SVM model achieved very high accuracy on the Iris dataset.  
 GridSearchCV was used to tune parameters such as `C` and `gamma` for better performance.
-
-## Run
-```bash
-pip install pandas seaborn matplotlib scikit-learn
